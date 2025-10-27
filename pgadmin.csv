@@ -1,4 +1,4 @@
-"flight_no","departure_airport","arrival_airport","airport_name","actual_arrival"
+"flight_no","departure_airport","arrival_airport","departure_airport_name","actual_arrival"
 "PG0639","DME","NYM","Домодедово","2017-08-15 18:00:00+03"
 "PG0646","RTW","DME","Саратов-Центральный","2017-08-15 17:58:00+03"
 "PG0131","URS","KUF","Курск-Восточный","2017-08-15 17:58:00+03"
